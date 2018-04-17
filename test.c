@@ -2,6 +2,6 @@
 /*simple c*/
 int main(void)
 {
-	printf("welcome to github");
+	printf("welcome to github,hello!");
 	return 0;
 }
