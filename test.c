@@ -1,5 +1,5 @@
 #include"stdio.h"
-/*¼òµ¥c*/
+/*simple c*/
 int main(void)
 {
 	printf("welcome to github");
